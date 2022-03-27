@@ -1,3 +1,4 @@
 To jest drugi plik
 a to jest zmiana
 zmiana w drugim pliku na branchu master
+git
