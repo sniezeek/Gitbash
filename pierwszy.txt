@@ -1,3 +1,4 @@
 To jest pierwszy plik!
 zmiana kolejna
 zmiana w branchu
+zmiana w branchu 2
